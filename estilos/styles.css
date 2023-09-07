@@ -1,0 +1,147 @@
+.carousel-inner {
+    height: 50vh; 
+}
+
+.carousel-item img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+
+.carousel-inner {
+    height: 50vh;
+}
+
+.carousel-item img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.featured .row {
+    margin-top: 20px;
+}
+
+
+.testimonials {
+    background-color: #f7f7f7;
+    padding: 30px 0;
+}
+
+.testimonials blockquote {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.contact {
+    padding: 30px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+.contact address {
+    font-style: normal;
+}
+
+
+footer {
+    background-color: #222;
+    padding: 20px 0;
+}
+
+.social-icons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #fff;
+}
+
+
+footer.bg-dark {
+    background-color: #222 !important;
+    padding: 20px 0;
+    color: #fff;
+}
+
+.social-icons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #fff;
+    display: inline-block; 
+}
+
+
+section {
+    margin: 40px 0;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+p, address, blockquote {
+    text-align: center;
+}
+
+.testimonials blockquote footer {
+    color: #fffdfd; 
+    text-align: center;  
+}
+
+
+.card-img-top {
+    height: 200px;  
+    width: 100%;
+    object-fit: cover; 
+}
+
+.descripcion-detallada {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+
+
+
